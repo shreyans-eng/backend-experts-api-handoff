@@ -21,7 +21,7 @@ API base URL: `http://localhost:3000`
 ## Quick start
 
 ```bash
-git clone https://github.com/Trackzio-Mobile-Apps/coinzy-experts-api-handoff.git
+git clone https://github.com/shreyans-eng/coinzy-experts-api-handoff.git
 cd coinzy-experts-api-handoff
 
 cp .env.example .env

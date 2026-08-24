@@ -39,7 +39,7 @@ Use a GitHub Personal Access Token with `read:packages` (and org SSO authorized 
 ### 3. Clone and start
 
 ```bash
-git clone https://github.com/Trackzio-Mobile-Apps/coinzy-experts-api-handoff.git
+git clone https://github.com/shreyans-eng/coinzy-experts-api-handoff.git
 cd coinzy-experts-api-handoff
 
 cp .env.example .env
