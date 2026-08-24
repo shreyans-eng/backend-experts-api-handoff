@@ -4,6 +4,8 @@ Run the Coinzy Experts backend API locally with Docker. **No backend source code
 
 API base URL: `http://localhost:3000`
 
+**Share with FE:** send them [`FE-SHARE.md`](./FE-SHARE.md) (short setup guide).
+
 ---
 
 ## Prerequisites
@@ -19,7 +21,7 @@ API base URL: `http://localhost:3000`
 ## Quick start
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/Trackzio-Mobile-Apps/coinzy-experts-api-handoff.git
 cd coinzy-experts-api-handoff
 
 cp .env.example .env
